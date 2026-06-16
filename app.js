@@ -210,6 +210,12 @@ document.getElementById("ai-generate").addEventListener("click", async () => {
 
 以下の要素から短編漫画のネタを3案作ってください。
 
+■制約
+・日常系
+・派手な事件なし
+・恋愛は必須ではない
+・静かな余韻を重視
+
 ■お題
 ${enabledData}
 `;
